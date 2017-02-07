@@ -1,0 +1,11 @@
+*.aux
+*.idx
+*.lof
+*.log
+*.lot
+*.sty
+*.gz
+*.toc
+academico/*.pdf
+estagio/*.pdf
+projeto/*.pdf
