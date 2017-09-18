@@ -3,7 +3,6 @@
 *.lof
 *.log
 *.lot
-*.sty
 *.gz
 *.toc
 academico/*.pdf
