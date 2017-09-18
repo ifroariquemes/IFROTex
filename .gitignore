@@ -5,6 +5,8 @@
 *.lot
 *.gz
 *.toc
+*.out
 academico/*.pdf
 estagio/*.pdf
 projeto/*.pdf
+desktop.ini
